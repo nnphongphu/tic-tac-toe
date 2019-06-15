@@ -6,7 +6,7 @@ My first project with Python: a classic, simple game of 'Tic tac toe' with an AI
 
 Tic tac toe is a two-player game. In this case, it is based on the player-vs-computer format. Each player has a symbol (typically X and O), and the first one to get one continuous line of tiles (be it horizontal, vertical or diagonal) filled with his/her symbols is the winner.
 
-The game takes place on a 3x3 grid starting with all tiles being empty. The players take turn placing tiles of their respective symbols. The game is completed if there is no empty tile left or if one of the two player successfully forms **a continuous line of three tiles** with his/her symbols.
+The game takes place on a 3x3 grid starting with all tiles being empty. The players take turn placing tiles of their respective symbols. The game is completed if there is no empty tile left or if one of the two players successfully forms **a continuous line of three tiles** with his/her symbols.
 
 ### Instruction
 
@@ -23,9 +23,9 @@ First, you will be presented with the title screen on which there will be three 
  
 **Remember: You're always 'X' and 'X' makes the first move.**
 
-Click any tiles that you want to place your symbol in and the game starts.
+Click any tiles that you want to place your symbol at and the game starts.
 
-If you wish to play again, click the renew button on the bottom-left corner of the window; if you wish to experience other levels of difficulty, click the menu button to be back to the title screen.
+If you wish to play again, click the renew button on the bottom-left corner of the window; if you wish to experience other levels of difficulty, click the menu button on the bottom-right of the window to be back to the title screen.
 
 ### To-do in the future
 
