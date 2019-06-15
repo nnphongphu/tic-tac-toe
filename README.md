@@ -14,9 +14,12 @@ In order to play the game, run the file tic-tac-toe.py in either an IDLE for Pyt
 
 Ex: PyCharm...
 
-First, you will be presented with the title screen on which there will be three buttons for you to choose:
+First, you will be presented with the title screen on which there will be three buttons for you to choose
+
   "Easy": means you are going to play with a basic AI that only chooses its moves randomly
+  
   "Norm": means you are going to play with an AI whose moves is calculated to fit a normal person's
+  
   "Hard": means you are going to play with an educated AI that use Minimax algorithm which you are **NOT** likely to be able to defeat
   
  After choosing the level of difficulty, you will be led to a 3x3 grid as mentioned above.
