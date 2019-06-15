@@ -26,7 +26,7 @@ First, you will be presented with the title screen on which there will be three 
  
 **Remember: You're always 'X' and 'X' makes the first move.**
 
-Click any tiles that you want to place your symbol at and the game starts.
+Click any tile that you want to place your symbol at and the game starts.
 
 If you wish to play again, click the renew button on the bottom-left corner of the window; if you wish to experience other levels of difficulty, click the menu button on the bottom-right of the window to be back to the title screen.
 
