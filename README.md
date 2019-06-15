@@ -30,6 +30,7 @@ If you wish to play again, click the renew button on the bottom-left corner of t
 ### To-do in the future
 
 Animation
+
 Player turn indicator
 
 ### Lisence
