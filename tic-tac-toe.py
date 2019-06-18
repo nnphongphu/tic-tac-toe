@@ -1,7 +1,7 @@
 # ----- Start of Introduction -----
 # Tic Tac Toe Project
 # Created by Phong-Phu Nguyen
-# Updated from June 14, 2019 - June 15, 2019
+# Updated from June 14, 2019 - June 18, 2019
 #
 # First project with Python
 # Has both basic AI (random decisions) as well as
@@ -212,6 +212,7 @@ def click_handle(event):
                                [0, 0, 0],
                                [0, 0, 0]]
                 running = False
+                level = 0
                 screen.delete(ALL)
                 run_game()
         else:
